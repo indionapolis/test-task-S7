@@ -1,0 +1,9 @@
+httpx
+pytest==6.2.1
+pydantic==1.6.1
+fastapi==0.60.1
+aiohttp==3.7.3
+pytest-mock-server
+uvicorn==0.11.7
+requests==2.25.1
+pytest-asyncio==0.14.0
